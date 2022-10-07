@@ -45,6 +45,7 @@
       {/if}
     </footer>
   </form>
+  <p>Website made by <a href="https://seanmcp.com">SeanMcP</a></p>
 </main>
 
 <style>
@@ -83,5 +84,9 @@
     fieldset section {
       grid-template-columns: repeat(3, 1fr);
     }
+  }
+
+  main :is(h1, p) {
+    text-align: center;
   }
 </style>
