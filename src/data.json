@@ -1,0 +1,174 @@
+[
+  [
+    "Bathroom",
+    [
+      ["Bathtub", "61"],
+      ["Bidet", "167"],
+      ["Body Soap", "79"],
+      ["Cleaning Products", "665"],
+      ["Conditioner", "657"],
+      ["Hair Dryer", "45"],
+      ["Hot Water", "77"],
+      ["Outdoor Shower", "210"],
+      ["Shampoo", "41"],
+      ["Shower Gel", "611"]
+    ]
+  ],
+  [
+    "Bedroom/Laundry",
+    [
+      ["Bed Linens", "85"],
+      ["Clothing Storage", "671"],
+      ["Dryer", "34"],
+      ["Drying Rack for Clothes", "667"],
+      ["Essentials - Towels, bed sheets, soap, and toilet paper", "40"],
+      ["Extra Pillows and Blankets", "86"],
+      ["Hangers", "44"],
+      ["Iron", "46"],
+      ["Mosquito Net", "211"],
+      ["Room-Darkening Shades", "73"],
+      ["Safe", "232"],
+      ["Washer", "33"]
+    ]
+  ],
+  [
+    "Entertainment",
+    [
+      ["Books and Reading Material", "394"],
+      ["Ethernet Connection", "87"],
+      ["Exercise Equipment", "227"],
+      ["Game Console", "75"],
+      ["Piano", "347"],
+      ["Ping Pong Table", "515"],
+      ["Pool Table", "521"],
+      ["Record Player", "527"],
+      ["Sound System", "185"],
+      ["TV", "1"]
+    ]
+  ],
+  [
+    "Family",
+    [
+      ["Baby Bath", "62"],
+      ["Baby Monitor", "59"],
+      ["Baby Safety Gates", "65"],
+      ["Babysitter Recommendations", "70"],
+      ["Board Games", "392"],
+      ["Changing Table", "63"],
+      ["Children's Books and Toys", "66"],
+      ["Children's Dinnerware", "74"],
+      ["Crib", "71"],
+      ["Fireplace Guards", "69"],
+      ["High Chair", "64"],
+      ["Outlet Covers", "60"],
+      ["Pack 'n Play/Travel Crib", "72"],
+      ["Table Corner Guards", "68"],
+      ["Window Guards", "67"]
+    ]
+  ],
+  [
+    "Heating/Cooling",
+    [
+      ["Air Conditioning", "5"],
+      ["Ceiling Fan", "139"],
+      ["Heating", "30"],
+      ["Indoor Fireplace: Electric", "27"],
+      ["Portable Fans", "522"]
+    ]
+  ],
+  [
+    "Home Safety",
+    [
+      ["Carbon Monoxide Alarm", "36"],
+      ["Fire Extinguisher", "39"],
+      ["First Aid Kit", "37"],
+      ["Smoke Alarm", "35"]
+    ]
+  ],
+  [
+    "Internet/Office",
+    [
+      ["Dedicated Workspace", "47"],
+      ["Pocket WiFi", "88"],
+      ["WiFi", "4"]
+    ]
+  ],
+  [
+    "Kitchen/Dining",
+    [
+      ["Baking Sheet", "625"],
+      [
+        "Barbecue Utensils: Grill, charcoal, bamboo skewers/iron skewers, etc.",
+        "626"
+      ],
+      ["Blender", "322"],
+      ["Bowls, Chopsticks, Plates, Cups, etc.", "93"],
+      ["Bread Maker", "632"],
+      ["Coffee", "415"],
+      ["Coffee Maker", "90"],
+      ["Dining Table", "236"],
+      ["Dishwasher", "92"],
+      ["Freezer", "308"],
+      ["Hot Water Kettle", "137"],
+      ["Microwave", "89"],
+      ["Mini Fridge", "146"],
+      ["Oven", "95"],
+      ["Pots and Pans, Oil, Salt and Pepper", "94"],
+      ["Refrigerator", "91"],
+      ["Rice Maker", "315"],
+      ["Space for Guests to Cook Their Own Meals", "8"],
+      ["Stove", "96"],
+      ["Toaster", "251"],
+      ["Trash Compactor", "661"],
+      ["Wine Glasses", "672"]
+    ]
+  ],
+  [
+    "Location",
+    [
+      ["Beach Access", "674"],
+      ["Lake Access", "133"],
+      ["Laundromat Nearby", "663"],
+      ["Private Entrance", "57"],
+      ["Resort Access", "528"],
+      ["Ski-In/Ski-Out", "135"],
+      ["Waterfront", "132"]
+    ]
+  ],
+  [
+    "Outdoor",
+    [
+      ["Backyard", "101"],
+      ["BBQ Grill", "99"],
+      [
+        "Beach Essentials: Beach towels, umbrella, beach blanket, snorkeling gear",
+        "102"
+      ],
+      ["Bikes", "201"],
+      ["Boat Slip", "664"],
+      ["Fire Pit", "219"],
+      ["Hammock", "153"],
+      ["Kayak", "172"],
+      ["Outdoor Dining Area", "179"],
+      ["Outdoor Furniture", "280"],
+      ["Outdoor Kitchen", "184"],
+      ["Patio or Balcony", "100"]
+    ]
+  ],
+  [
+    "Parking/Facilities",
+    [
+      ["Elevator", "21"],
+      ["EV Charger", "97"],
+      ["Free Parking on Premises", "9"],
+      ["Free Street Parking", "23"],
+      ["Gym", "15"],
+      ["Hot Tub", "25"],
+      ["Paid Parking off Premises", "10"],
+      ["Paid Parking on Premises", "287"],
+      ["Pool", "7"],
+      ["Sauna", "223"],
+      ["Single Level Home", "98"]
+    ]
+  ]
+]
